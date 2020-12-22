@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\workspace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\HELLOPYTHON\com.python.pydev.analysis\v2_indexcache
+day01.myfor02|1608538046716128900|C:\workspace_python\HELLOPYTHON\day01\myfor02.py
+day01.myfor03|1608538349471190600|C:\workspace_python\HELLOPYTHON\day01\myfor03.py
+day01.myif01|1608537052131425500|C:\workspace_python\HELLOPYTHON\day01\myif01.py
+day01.myfor01|1608537672285473500|C:\workspace_python\HELLOPYTHON\day01\myfor01.py
+day01.mytest02|1608543775615500100|C:\workspace_python\HELLOPYTHON\day01\mytest02.py
+day01.mytest01|1608543712375363500|C:\workspace_python\HELLOPYTHON\day01\mytest01.py
+day01.HelloPython|1608534038481223600|C:\workspace_python\HELLOPYTHON\day01\HelloPython.py
+day01.__init__|1608533765958657900|C:\workspace_python\HELLOPYTHON\day01\__init__.py
+day01.myif02|1608537305817494500|C:\workspace_python\HELLOPYTHON\day01\myif02.py
+day01.mytest03|1608543974313871600|C:\workspace_python\HELLOPYTHON\day01\mytest03.py
+day01.myvariable|1608535063103769000|C:\workspace_python\HELLOPYTHON\day01\myvariable.py
+day01.myvariable02|1608536305957191000|C:\workspace_python\HELLOPYTHON\day01\myvariable02.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+1=C:\workspace_python\HELLOPYTHON\day01\myif02.py
+5=C:\workspace_python\HELLOPYTHON\day01\myif01.py
+8=day01.myvariable
+13=C:\workspace_python\HELLOPYTHON\day01\mytest02.py
+11=C:\workspace_python\HELLOPYTHON\day01\mytest01.py
+7=C:\workspace_python\HELLOPYTHON\day01\myvariable.py
+10=day01.myfor02
+6=day01.myif01
+16=day01.myfor03
+14=day01.mytest02
+12=day01.mytest01
+2=day01.myif02
+15=C:\workspace_python\HELLOPYTHON\day01\myfor03.py
+9=C:\workspace_python\HELLOPYTHON\day01\myfor02.py
+3=C:\workspace_python\HELLOPYTHON\day01\myvariable02.py
+4=day01.myvariable02
+-- END DICTIONARY
+-- START TREE 1
+3
+a|4|a!1^1#1*19@a!3^1#1*35@a!5^1#1*51@a!7^1#1*67@
+b|2|b!3^2#1*35@b!7^2#1*67@
+sum|4|sum!9^2#1*83@sum!11^3#1*99@sum!13^1#1*115@sum!15^2#1*131@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

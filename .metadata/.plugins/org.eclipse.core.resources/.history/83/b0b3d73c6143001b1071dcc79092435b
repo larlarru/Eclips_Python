@@ -1,0 +1,7 @@
+a = 0
+if a == 3 :
+    
+    print("hello")
+    print("hello2")
+
+

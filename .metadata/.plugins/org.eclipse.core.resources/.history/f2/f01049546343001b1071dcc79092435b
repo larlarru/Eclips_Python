@@ -1,0 +1,6 @@
+# for i in range(10):
+#     print(i+1)
+sum = 0
+sum = sum + 1
+for sum in range(10):
+    print(sum+1)
