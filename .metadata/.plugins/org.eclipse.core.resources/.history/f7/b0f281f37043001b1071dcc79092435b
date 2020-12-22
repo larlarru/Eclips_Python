@@ -1,5 +1,0 @@
-sum = 0
-for i in range(201):
-    if i >= 100:
-        sum = sum + i
-print(sum)

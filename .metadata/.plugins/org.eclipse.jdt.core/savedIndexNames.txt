@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\workspace_python\.metadata\.plugins\org.eclipse.jdt.core
-231517662.index
-2112246634.index
